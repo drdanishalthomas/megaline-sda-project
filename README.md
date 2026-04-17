@@ -1,3 +1,4 @@
+![Project Banner](Megaline_Plan_Analysis_Banner.png)
 # Megaline Plans - Statistical Data Analysis
 
 ## Objective
